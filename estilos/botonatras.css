@@ -1,0 +1,24 @@
+.boton-atras {
+    max-width: 800px;
+    margin: 5px auto;
+    padding: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items:flex-start;
+    text-align: center;
+}
+.boton-atras a {
+    display: inline-block;
+    width: 300%;
+    padding: 10px;
+    background-color: #cc1414;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 13px;
+}

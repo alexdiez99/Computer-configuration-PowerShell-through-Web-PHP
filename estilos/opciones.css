@@ -1,0 +1,41 @@
+.contenedor-form {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 60px;
+    background: #ffffff;
+    background-color: rgba(255, 255, 255, 0);
+}
+.contenedor-form h2 {
+    text-align: center;
+    color: #fff;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    padding: 12px;
+}
+.contenedor-form-botones-guia a {
+    width: 300%;
+    padding: 10px;
+    background-color: #358d35;
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 13px;
+}
+.opciones a {
+    text-decoration: none;
+    background-color: #358d35;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.opciones .a2 {
+    background-color: #d68d20;
+}
