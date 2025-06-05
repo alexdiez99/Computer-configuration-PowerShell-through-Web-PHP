@@ -14,6 +14,6 @@ No lo utilices con fines comerciales ni profesionales.
 
 Mantengas esta misma condición en cualquier derivado.
 
-🔗 Ver licencia completa (CC BY-NC 4.0)
+🔗 Ver licencia completa: https://creativecommons.org/licenses/by-nc/4.0/deed.es
 
 Para usos comerciales, por favor contacta al autor del proyecto.
